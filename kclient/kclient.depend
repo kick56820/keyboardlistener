@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557607304 source:c:\¸ê¦w\home.folder\udp\kclient\main.cpp
+	<WINSOCK2.H>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+	<time.h>
+	<string>
+	<ctype.h>
+
