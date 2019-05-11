@@ -1,5 +1,10 @@
 # keyboardlistener
 about c++ virtual key code 
+
+
+
+
+
 server.exe 伺服器端
 keyboardlistener-master\keyboardlistener-master\kclient\kclient.cbp 打開編譯即可
 
